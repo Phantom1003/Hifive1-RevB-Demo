@@ -1,2 +1,2 @@
-# empty
-An empty example. Use as a starting point for your own project!
+# Hifive1 RevB Super Blink
+Basic from WestDigit RISC-V ASM Tutorials, you will see the LED flashes red, green and blue in turn.
